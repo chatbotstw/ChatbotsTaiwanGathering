@@ -7,6 +7,6 @@
 
 [Chatbots Meetup Taiwan](https://chatbots.kktix.cc)
 
-- [Chatbots Meetup Taiwan #08](meetup/cb8) (2019/02/25)
+- [Chatbots Meetup Taiwan #08](src/cb8) (2019/02/25)
 
 
