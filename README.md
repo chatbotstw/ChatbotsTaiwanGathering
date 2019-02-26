@@ -1,4 +1,4 @@
-## Golang Taiwan Gathering
+## Chatbots Taiwan Gathering
 
 [Join the chat at https://gitter.im/chatbots-tw](https://gitter.im/chatbots-tw)
 
