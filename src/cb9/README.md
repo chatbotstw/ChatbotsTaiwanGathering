@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 講者們簡報以姓名標示受權 >  http://bit.ly/2tCTtRa (cc-by-4.0)
+- 講者們簡報以姓名標示受權 (cc-by-4.0)
 - [林家煜		如何透過 LINE chatbot 追蹤追隨的實況主](https://line.me/R/ti/p/%40eae1476b?fbclid=IwAR3qjj7utD1xh3oFHJZ2IkFaBtvUw91nAThly6hg1_hIn7WWzSakDw1oMLI)
 - [郭佳甯	 	聊天機器人MVC框架設計]							
 - [鄭伊真		web push dashboard](https://drive.google.com/open?id=1pC9EZiohaDn0DJFIShbCe9Yr4Q-t-3fO)
