@@ -2,7 +2,7 @@
 
 ### Time
 
-#### 2019/02/25(Mon) 19:30 ~ 22:00  (UDT+8)
+#### 2019/04/12(Mon) 19:30 ~ 22:00  (UDT+8)
 
 ### [Regstration Info](https://chatbots.kktix.cc/events/meetup-009)
 
