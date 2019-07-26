@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 講者們簡報以姓名標示受權 >  http://bit.ly/2tCTtRa (cc-by-4.0)
+- 講者們簡報以姓名標示受權(cc-by-4.0)
 - petertc		Is your bot ALIVE?			
 - EJay		Chatbot O2O 案例分享			
 - Jeffrey		Chatbot 待辦小精靈			
